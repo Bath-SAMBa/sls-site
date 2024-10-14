@@ -17,9 +17,11 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |         |                |         |          |                        |                                |
 |         | Josh           |         |          |                        | A website.                     |
 +---------+----------------+---------+----------+------------------------+--------------------------------+
-| Week 3  | John Carlo     | ?       | ?        | ?                      | ?                              |
+| Week 3  | John Carlo     | 1315    | 4E 3.19  | Dr Phil Trinh          | Life as a PhD Student          |
 |         |                |         |          |                        |                                |
-|         | Bence          |         |          |                        |                                |
+|         | Bence          |         |          | Dr Marcel Ortgiese     | Software/Literature tools      |
+|         |                |         |          |                        |                                |
+|         |                |         |          | Cecilie Andersen       | Time Mangagement               |
 +---------+----------------+---------+----------+------------------------+--------------------------------+
 | Week 4  | Clara          | ?       | ?        | ?                      | ?                              |
 |         |                |         |          |                        |                                |
