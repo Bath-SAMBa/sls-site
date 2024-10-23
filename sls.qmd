@@ -9,15 +9,15 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 +---------+----------------+---------+----------+------------------------+--------------------------------+
 | Date    | Primary/Backup | Time    | Location | Speaker(s)             | Topic(s)                       |
 +=========+================+=========+==========+========================+================================+
-| 03/10   | N/A            | 1315    | 4E 3.19  | Dr Phil Trinh          | Introduction to SLS.           |
+| 03/10   | N/A            | 13:15   | 4E 3.19  | Dr Phil Trinh          | Introduction to SLS.           |
 |         |                |         |          |                        |                                |
 |         |                |         |          | Dr Marcel Ortgiese     |                                |
 +---------+----------------+---------+----------+------------------------+--------------------------------+
-| 10/10   | Harry          | 1315    | 4E 3.19  | Bill Nunn              | Basic Git and GitHub.          |
+| 10/10   | Harry          | 13:15   | 4E 3.19  | Bill Nunn              | Basic Git and GitHub.          |
 |         |                |         |          |                        |                                |
 |         | Josh           |         |          |                        | A website.                     |
 +---------+----------------+---------+----------+------------------------+--------------------------------+
-| Week 3  | John Carlo     | 1315    | 4E 3.19  | Dr Phil Trinh          | Life as a PhD Student.         |
+| Week 3  | John Carlo     | 13:15   | 4E 3.19  | Dr Phil Trinh          | Life as a PhD Student.         |
 |         |                |         |          |                        |                                |
 |         | Bence          |         |          | Dr Marcel Ortgiese     | Software/Literature tools.     |
 |         |                |         |          |                        |                                |
@@ -35,7 +35,7 @@ This page details the 2023 Student Led Symposium (SLS) schedule, to the extent i
 |         |                |         |          |                        |                                |
 |         | Fernando       |         |          |                        |                                |
 +---------+----------------+---------+----------+------------------------+--------------------------------+
-| Week 7  | Fernando       | ?       | ?        | Julian Faraway         | Exploratory data visualisation |
+| Week 7  | Fernando       | 13:15   | 4E 3.19  | Julian Faraway         | Exploratory data visualisation |
 |         |                |         |          |                        |                                |
 |         | James          |         |          |                        |                                |
 +---------+----------------+---------+----------+------------------------+--------------------------------+
