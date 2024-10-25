@@ -42,7 +42,7 @@ This page details the 2024 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |                    |          |                        |                                |
 |          | Clara          |                    |          | Prof. Tristan Pryer    |                                |
 +----------+----------------+--------------------+----------+------------------------+--------------------------------+
-| Week 9   | Josh           | ?                  | ?        | ?                      | ?                              |
+| Week 9   | Josh           | ?                  | ?        | Diamond Light Source   | ITT Problems Briefing          |
 |          |                |                    |          |                        |                                |
 |          | John Carlo     |                    |          |                        |                                |
 +----------+----------------+--------------------+----------+------------------------+--------------------------------+
