@@ -31,7 +31,7 @@ This page details the 2024 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |                    |          |                      |                                |
 |          | Harry          | 14:15              |          | Kamran Arora         |                                |
 +----------+----------------+--------------------+----------+----------------------+--------------------------------+
-| Week 6   | Peter          | ?                  | ?        | ?                    | ?                              |
+| Week 6   | Peter          | TBC; probably 13:15| 4E 3.19  | TBC                  | Advanced version control       |
 |          |                |                    |          |                      |                                |
 |          | Fernando       |                    |          |                      |                                |
 +----------+----------------+--------------------+----------+----------------------+--------------------------------+
