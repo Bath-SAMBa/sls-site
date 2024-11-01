@@ -15,63 +15,45 @@ The schedule is jointly overseen by Benjamin Dutton and Aengus Roberts.
 |          |                          |                     |          |                      |                                |
 |          |                          |                     |          | Dr Marcel Ortgiese   |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| 10/10    | Harry Semple             | 13:15               | 4E 3.19  | Bill Nunn            | Basic Git and GitHub.          |
+| 10/10    | Harry Semple/            | 13:15               | 4E 3.19  | Bill Nunn            | Basic Git and GitHub.          |
 |          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      | A website.                     |
-|          |                          |                     |          |                      |                                |
-|          | Josh Payne               |                     |          |                      |                                |
+|          | Josh Payne               |                     |          |                      | A website.                     |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 3   | John Carlo Dimaculangan  | 13:15               | 4E 3.19  | Dr Phil Trinh        | Life as a PhD Student.         |
+| Week 3   | John Carlo Dimaculangan/ | 13:15               | 4E 3.19  | Dr Phil Trinh        | Life as a PhD Student.         |
 |          |                          |                     |          |                      |                                |
-|          | &                        |                     |          | Dr Marcel Ortgiese   | Software/Literature tools.     |
+|          | Bence Kaszás             |                     |          | Dr Marcel Ortgiese   | Software/Literature tools.     |
 |          |                          |                     |          |                      |                                |
-|          | Bence Kaszás             |                     |          | Cecilie Andersen     | Time Management.               |
+|          |                          |                     |          | Cecilie Andersen     | Time Management.               |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 4   | Clara Hawkins            | 5th November 15:15  | 8W 2.28  | Jenny Power          | How to give a good talk        |
-|          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      |                                |
+| Week 4   | Clara Hawkins/           | 5th November 15:15  | 8W 2.28  | Jenny Power          | How to give a good talk        |
 |          |                          |                     |          |                      |                                |
 |          | Veronica Raffetto        |                     |          |                      |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 5   | James Treisman           | 31/10/24            | 4E 3.19  | Dr Eike Mueller      | HPC demo + examples            |
+| Week 5   | James Treisman/          | 31/10/24            | 4E 3.19  | Dr Eike Mueller      | HPC demo + examples            |
 |          |                          |                     |          |                      |                                |
-|          | &                        | 14:15               |          | Kamran Arora         |                                |
-|          |                          |                     |          |                      |                                |
-|          | Harry Semple             |                     |          |                      |                                |
+|          | Harry Semple             | 14:15               |          | Kamran Arora         |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 6   | Peter Crew               | TBC; probably 13:15 | 4E 3.19  | TBC                  | Advanced version control       |
-|          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      |                                |
+| Week 6   | Peter Crew/              | TBC; probably 13:15 | 4E 3.19  | TBC                  | Advanced version control       |
 |          |                          |                     |          |                      |                                |
 |          | Fernando Perazzo         |                     |          |                      |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 7   | Fernando Perazzo         | 13:15               | 4E 3.19  | Prof. Julian Faraway | Exploratory data visualisation |
-|          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      |                                |
+| Week 7   | Fernando Perazzo/        | 13:15               | 4E 3.19  | Prof. Julian Faraway | Exploratory data visualisation |
 |          |                          |                     |          |                      |                                |
 |          | James Treisman           |                     |          |                      |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 8   | Wenzhi Zhong             | 13:15               | 4E 3.19  | Dr. Abdalaziz Hamdan | Firedrake and finite elements  |
+| Week 8   | Wenzhi Zhong/            | 13:15               | 4E 3.19  | Dr. Abdalaziz Hamdan | Firedrake and finite elements  |
 |          |                          |                     |          |                      |                                |
-|          | &                        |                     |          | Prof. Tristan Pryer  |                                |
-|          |                          |                     |          |                      |                                |
-|          | Clara Hawkins            |                     |          |                      |                                |
+|          | Clara Hawkins            |                     |          | Prof. Tristan Pryer  |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 9   | Josh Payne               | ?                   | ?        | Diamond Light Source | ITT Problems Briefing          |
-|          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      |                                |
+| Week 9   | Josh Payne/              | ?                   | ?        | Diamond Light Source | ITT Problems Briefing          |
 |          |                          |                     |          |                      |                                |
 |          | John Carlo Dimaculangan  |                     |          |                      |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 10  | Bence Kaszás             | ?                   | ?        | ?                    | ?                              |
-|          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      |                                |
+| Week 10  | Bence Kaszás/            | ?                   | ?        | ?                    | ?                              |
 |          |                          |                     |          |                      |                                |
 |          | Peter Crew               |                     |          |                      |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
-| Week 11  | Veronica Raffetto        | ?                   | ?        | ?                    | ?                              |
-|          |                          |                     |          |                      |                                |
-|          | &                        |                     |          |                      |                                |
+| Week 11  | Veronica Raffetto/       | ?                   | ?        | ?                    | ?                              |
 |          |                          |                     |          |                      |                                |
 |          | Wenzhi Zhong             |                     |          |                      |                                |
 +----------+--------------------------+---------------------+----------+----------------------+--------------------------------+
