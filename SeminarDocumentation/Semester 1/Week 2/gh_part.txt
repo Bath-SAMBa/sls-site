@@ -1,0 +1,59 @@
+
+Second part of SLS session.
+
+1. brew install gh and then run "gh auth login"
+
+2. Navigate to local directory using the "cd" command
+
+3. Ensure git is initialised in local repository using "git init"
+
+4. Create the GitHub repository using "gh repo create my-repository-name
+   --public --source=. --remote=origin"
+
+5. Add all local files (to staging) and then commit them using
+   "git add ." and then "git commit -m 'Required commit message'"
+
+6. Push the changes to the GitHub repository using "git push -u origin main".
+   It's important to note that only commits are pushed.
+
+7. Next time you push or pull you can just use "git push" or "git pull"
+
+8. "git fetch" retrieves the commit history without pulling.
+
+-----------------------------------------------------------
+
+Phil has set up a Github repository for SLS, we want to pull this (existing)
+repo to our local system.
+
+1. Navigate to a location you want to store the repo 
+   (I use desktop because I am a monkey brain)
+
+2. Pull Phil's repo to a local folder using
+   "git clone https://github.com/Bath-SAMBa/SLS.git SLS" 
+
+3. You guys decide upon a file system and push these changes to the repo.
+
+I have made an R-project containing code for a website. 
+(Show the R-project, how to edit and render it in R-Studio. All html is shoved
+into the docs folder)
+
+I will email you the website code, and you will decide how to push the code to 
+SLS/site.
+
+4. To get the website up and running we need to configure Github pages to build 
+   the site from the SLS/site/docs folder.
+
+-----------------------------------------------------------
+
+Closing questions: 
+Would it be easy for each student to add their film.txt to the repo?
+
+Would it be easy to make a single film.txt where each student adds their
+favourite film locally? How would you do it?
+
+The standard recommendation is to use branching and pull requests, see the following (good) tutorial from 27:30 onwards:
+https://www.youtube.com/watch?v=Q1kHG842HoI
+
+Can resolve merge conflicts on GitHubs web editor for simplicity.
+
+

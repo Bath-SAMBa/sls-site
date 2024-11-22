@@ -1,0 +1,46 @@
+
+First part of SLS session.
+
+1. brew install git if necessary
+
+2. Set config variables using "git config --global user.name "Your Name"" and
+   "git config --global user.email "Email you used for GitHub"" and 
+   "git config --global credential.username "Your GitHub username""
+
+3. Create a (local) folder on your desktop called demo
+
+4. Navigate to this folder.
+
+5. Initialise git in folder using "git init"
+
+6. Create a txt called film.txt and add a film you like to the file.
+
+7. Check status using "git status". What do you see?
+
+8. Add the new (aka changed) file to 'staging' area using "git add film.txt".
+
+9. Commit the changes using "git commit -m 'Compulsory commit message'"
+
+10. Add new film to list, commit the changes. Check the commit log using "git log 
+    --all --graph" what do you see?
+
+11. To make uncertain changes it's helpful to add a branch: you want to avoid fucking
+    up your film list.
+
+12. Add a branch with "git branch tvlist". Navigate to the new branch with "git switch tvlist"
+
+13. Check the log again. What do you see?
+
+14. Working on the tvlist branch, add a new txt called tv.txt and add a tv show to the file.
+
+15. Try merging the branches. Navigate to main and type "git merge tvlist -m 'Message'" Will this work?
+    Investigate the state of the main branch.
+
+16. Go back to the tvlist branch. Remove the second film you added to your film list.
+
+17. Try merging branches. Will this work?
+
+18. Resolve the merge conflict. Finish by adding a new commit.
+
+19. Remove the tvlist branch with "git branch -d tvlist".
+
