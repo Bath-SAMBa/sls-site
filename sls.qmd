@@ -43,9 +43,9 @@ This page details the 2024 Student Led Symposium (SLS) schedule, to the extent i
 |          |                |                    |          |                        |                                |
 |          | Clara          |                    |          | Prof. Tristan Pryer    |                                |
 +----------+----------------+--------------------+----------+------------------------+--------------------------------+
-| Week 9   | Josh           | ?                  | ?        | Diamond Light Source   | ITT Problems Briefing          |
-|          |                |                    |          |                        |                                |
-|          | John Carlo     |                    |          |                        |                                |
+| Week 9   | Josh           | 13:15 to 15:15     | 4W 1.1   | Diamond Light Source   | ITT 1 Introductory Event       |
+|          |                |                    |          | Julia Parker           |                                |
+|          | John Carlo     |                    |          | Paul Quinn             |                                |
 +----------+----------------+--------------------+----------+------------------------+--------------------------------+
 | Week 10  | Bence          | ?                  | ?        | ?                      | ?                              |
 |          |                |                    |          |                        |                                |
