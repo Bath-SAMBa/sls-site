@@ -4,7 +4,7 @@ title: "SLS Schedule"
 
 This page details the 2024 Student Led Symposium (SLS) schedule, to the extent it is currently known. Question marks indicate uncertainty, no question mark means the schedule is **confirmed**. Scroll down and you may see yourself.
 
-The schedule is jointly overseen by Benjamin Dutton and Aengus Roberts.
+The Semester One schedule is jointly overseen by Benjamin Dutton and Aengus Roberts.
 
 # Semester One
 
@@ -32,6 +32,8 @@ The schedule is jointly overseen by Benjamin Dutton and Aengus Roberts.
 | Week 5 31/10/24  | James Treisman/            | 14:15                  | 4E 3.19  | Dr Eike Mueller       | HPC demonstration.                    |
 |                  |                            |                        |          |                       |                                       |
 |                  | Harry Semple               |                        |          | Kamran Arora          |                                       |
+|                  |                            |                        |          |                       |                                       |
+|                  |                            |                        |          | Oliver Townsend       |                                       |
 +------------------+----------------------------+------------------------+----------+-----------------------+---------------------------------------+
 | Week 6 07/11/24  | Peter Crew/                | 14:15                  | 4E 3.19  | Paddy O'Toole         | Advanced version control.             |
 |                  |                            |                        |          |                       |                                       |
@@ -72,16 +74,34 @@ The schedule is jointly overseen by Benjamin Dutton and Aengus Roberts.
 
 # Semester Two
 
-+--------+----------------+--------+----------+--------------------+----------------------------------------------+
-| Date   | Primary/Backup | Time   | Location | Speaker(s)         | Topic(s)                                     |
-+========+================+========+==========+====================+==============================================+
-| ?      | ?              | ?      | ?        | Dr Marcel Ortgiese | How to lastingly avoid dressing as a pirate. |
-|        |                |        |          |                    |                                              |
-|        |                |        |          | Dr Phil Trinh      |                                              |
-+--------+----------------+--------+----------+--------------------+----------------------------------------------+
-| ?      | ?              | ?      | ?        | ?                  | ?                                            |
-+--------+----------------+--------+----------+--------------------+----------------------------------------------+
-| ?      | ?              | ?      | ?        | ?                  | ?                                            |
-+--------+----------------+--------+----------+--------------------+----------------------------------------------+
+The Semester Two schedule is overseen by James Treisman.
+
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
+| Date     | Primary      | Time    | Location | Speaker(s)         | Topic(s)                                   |
++==========+==============+=========+==========+====================+============================================+
+| Week 1   | N/A          | 14:15   | 8W 2.29  | Dr Marcel Ortgiese | Semester Two discussion                    |
+|          |              |         |          |                    |                                            |
+| 4/02/25  |              |         |          | Dr Phil Trinh      |                                            |
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
+| Week 2   | Bence Kaszás | 13:15   | 10W 2.02 | Dr Phil Trinh      | Handling criticism when submitting a paper |
+|          |              |         |          |                    |                                            |
+| 13/02/25 |              |         |          |                    |                                            |
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
+| Week 3   | Josh Payne   | 13:15   | 10W 2.02 | Aengus Roberts     | All things GenAI                           |
+|          |              |         |          |                    |                                            |
+| 20/02/25 |              |         |          | Ben Dutton         |                                            |
+|          |              |         |          |                    |                                            |
+|          |              |         |          | Harry Semple       |                                            |
+|          |              |         |          |                    |                                            |
+|          |              |         |          | Josh Payne         |                                            |
+|          |              |         |          |                    |                                            |
+|          |              |         |          | Ben Adams          |                                            |
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
+| Week 4   | ?            | ?       | ?        | ?                  | ?                                          |
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
+| Week 5   | ?            | ?       | ?        | ?                  | ?                                          |
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
+| Week 6   | ?            | ?       | ?        | ?                  | ?                                          |
++----------+--------------+---------+----------+--------------------+--------------------------------------------+
 
 ![](cohort11.jpg)
