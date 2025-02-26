@@ -105,9 +105,11 @@ The Semester Two schedule is overseen by James Treisman.
 |          |                         |        |          |                    |                           |
 |          |                         |        |          |                    | Interships                |
 +----------+-------------------------+--------+----------+--------------------+---------------------------+
-| Week 7   | Benjamin Dutton         | ?      | ?        | ?                  | Reading papers            |
-|          |                         |        |          |                    |                           |
-|          |                         |        |          |                    | ITT representations       |
+| Week 7   | Benjamin Dutton         | 18th: 14:15 - 15:15 | 18th: 8W 2.29  | 18th: SAMBa Cohort 11 | 18th: ITT Representations |
+|          |                         |                     |                |                       |                           |
+| 18/03/25 |                         | 20th: 13:15         | 20th: 10W 2.02 | 20th: Prof. Kit Yates | 20th: Reading papers      |
+|          |                         |                     |                |                       |                           |
+| 20/03/25 |                         |                     |                |                       |                           |
 +----------+-------------------------+--------+----------+--------------------+---------------------------+
 | Week 8   | Wenzhi Zhong            | ?      | ?        | ?                  | ITT representations       |
 +----------+-------------------------+--------+----------+--------------------+---------------------------+
