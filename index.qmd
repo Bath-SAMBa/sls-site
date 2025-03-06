@@ -5,3 +5,7 @@ title: "Home Page"
 Welcome to the SAMBa 2024/2025 Student Led Symposium (SLS) schedule.
 
 For those that might not know [**SAMBa** = **S**tatistical **A**pplied **M**athematics at **Ba**th](https://samba.ac.uk).
+
+
+
+<img src="cohort11.jpg" onmouseover="this.src='cohort11_highquality.jpg'" onmouseout="this.src='cohort11.jpg'" style="width:90%"/>  
