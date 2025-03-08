@@ -97,7 +97,9 @@ The Semester Two schedule is overseen by James Treisman.
 +-----------------+-------------------------+---------------------+----------+--------------------+------------------------------------+
 | Week 4          | Peter Crew              | ?                   | ?        | ?                  | Supervisory relationship           |
 +-----------------+-------------------------+---------------------+----------+--------------------+------------------------------------+
-| Week 5          | Harry Semple            | 14:15               | 8W 2.29  | Eric Hester        | Scientific visualisation           |
+| Week 5          | Harry Semple            | 14:15               | 8W 2.29  | Eric Hester        | Scientific Visualisation           |
+|                 |                         |                     |          |                    |                                    |
+|                 |                         | (Tuesday Week 6)    |          |                    |                                    |
 +-----------------+-------------------------+---------------------+----------+--------------------+------------------------------------+
 | Week 6          | Veronica Raffetto       | ?                   | ?        | ?                  | Posters Internships                |
 +-----------------+-------------------------+---------------------+----------+--------------------+------------------------------------+
@@ -119,3 +121,7 @@ The Semester Two schedule is overseen by James Treisman.
 <!-- ![](cohort11.jpg) -->
 
 ![](cohort11_highquality.jpg)
+
+Artwork by James Treisman (MEng), circa 2025.
+
+© James Treisman Enterprises, 2025. All rights reserved.
