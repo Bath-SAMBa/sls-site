@@ -9,3 +9,5 @@ For those that might not know [**SAMBa** = **S**tatistical **A**pplied **M**athe
 
 
 <img src="cohort11.jpg" onmouseover="this.src='cohort11_highquality.jpg'" onmouseout="this.src='cohort11.jpg'" style="width:90%"/>  
+
+© James Treisman Enterprises, 2025.
