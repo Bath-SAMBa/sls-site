@@ -1,0 +1,9 @@
+firedrake codes are in the .zip file. 
+
+Please note that most of the examples are others' work so you need to some citations if you would like to use them. 
+
+For example: 
+The double slit experiment (https://www.firedrakeproject.org/demos/linear_wave_equation.py.html)
+
+The vortex shedding experiment
+(https://github.com/ErikM23/CFD-Firedrake/tree/master) 
