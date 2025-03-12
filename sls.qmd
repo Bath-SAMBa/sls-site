@@ -103,7 +103,11 @@ The Semester Two schedule is overseen by James Treisman.
 |                 |                         |                     |          |                                                |                                    |
 |                 |                         | (Tuesday Week 6)    |          |                                                |                                    |
 +-----------------+-------------------------+---------------------+----------+------------------------------------------------+------------------------------------+
-| Week 6          | Veronica Raffetto       | ?                   | ?        | ?                                              | Posters Internships                |
+| Week 6          | Veronica Raffetto       | 13:15               | 10W 2.02 | Laura Oporto Lisboa                            | Posters Internships                |
+|                 |                         |                     |          |                                                |                                    |
+|                 |                         |                     |          | Joao De Oliveira Madeira                       |                                    |
+|                 |                         |                     |          |                                                |                                    |
+|                 |                         |                     |          | Chiara Boetti                                  |                                    |
 +-----------------+-------------------------+---------------------+----------+------------------------------------------------+------------------------------------+
 | Week 7          | Benjamin Dutton         | 18th: 14:15 - 15:15 | 8W 2.29  | SAMBa Cohort 11                                | ITT Representations Reading papers |
 |                 |                         |                     |          |                                                |                                    |
