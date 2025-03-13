@@ -126,7 +126,9 @@ The Semester Two schedule is overseen by James Treisman.
 
 <!-- ![](cohort11.jpg) -->
 
-![](cohort11_highquality.jpg)
+<!-- ![](cohort11_highquality.jpg) -->
+
+<img src="cohort11.jpg" onmouseover="this.src=&apos;cohort11_highquality.jpg&apos;" onmouseout="this.src=&apos;cohort11.jpg&apos;" style="width:90%"/>
 
 Artwork by James Treisman (MEng), circa 2025ish.
 

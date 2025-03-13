@@ -1,5 +1,6 @@
 ---
 title: "Home Page"
+format: html
 ---
 
 Welcome to the SAMBa 2024/2025 Student Led Symposium (SLS) schedule.
@@ -8,6 +9,18 @@ For those that might not know [**SAMBa** = **S**tatistical **A**pplied **M**athe
 
 
 
-<img src="cohort11.jpg" onmouseover="this.src='cohort11_highquality.jpg'" onmouseout="this.src='cohort11.jpg'" style="width:90%"/>  
+<!-- © James Treisman Enterprises, 2025. -->
 
-© James Treisman Enterprises, 2025.
+::::: {.grid .g-col-12 .g-gap-3}
+::: g-col-12
+### Cohort 11 (2024-5)
+
+[![](cohort11.jpg){.img-fluid}](/sls.qmd)
+:::
+
+::: g-col-12
+### Cohort 10 (2023-4)
+
+[![](Cohort%2010/cohort10.jpeg){.img-fluid}](Cohort%2010/cohort10.qmd)
+:::
+:::::
